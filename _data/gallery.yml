@@ -1,0 +1,11 @@
+- title: "Beautiful Landscape"
+  image: "/assets/images/landscape.jpg"
+  description: "A stunning view of mountains during sunrise."
+
+- title: "City Skyline"
+  image: "/assets/images/city.jpg"
+  description: "A breathtaking urban skyline at dusk."
+
+- title: "Ocean Waves"
+  image: "/assets/images/ocean.jpg"
+  description: "Soothing waves at a serene beach."
